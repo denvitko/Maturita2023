@@ -32,3 +32,8 @@
 - [ ] cizí jazyk - ústní zkouška
 - [ ] programování a vývoj aplikací - ústní zkouška
 - [ ] operační systémy - ústní zkouška
+
+## Maturitní témata
+* [Odborné předměty IT](https://www.stredniskola.com/wp-content/uploads/2021/10/MZ-okruhy-IT.pdf)
+* [Anglický jazyk](https://www.stredniskola.com/wp-content/uploads/2022/09/AJ_Maturitni-okruhy-2022_2023.pdf)
+* [Seznam doporučené četby](https://www.stredniskola.com/wp-content/uploads/2022/09/Seznam-doporucene-cetby-k-maturitni-zkousce-pro-skolni-rok-2022-2023.pdf)
