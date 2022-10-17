@@ -1,3 +1,5 @@
+![czech_banner](https://user-images.githubusercontent.com/95103224/196236829-cf15ce5c-aee0-4c32-b587-e00f2da9e55d.gif)
+
 # :czech_republic: Český jazyk a literatura
 
 **seznam četby k ústní zkoušce**: [seznam-doporucene-cetby-k-maturitni-zkousce-pro-skolni-rok-2022-2023.pdf](https://www.stredniskola.com/wp-content/uploads/2022/09/Seznam-doporucene-cetby-k-maturitni-zkousce-pro-skolni-rok-2022-2023.pdf)   
