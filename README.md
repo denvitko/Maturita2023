@@ -1,4 +1,4 @@
-![maturita_banner](https://user-images.githubusercontent.com/95103224/196062525-d95f023a-8cc6-482f-b99c-f8489bbd9151.png)
+![maturita_banner](https://user-images.githubusercontent.com/95103224/196131819-e14868ba-f5f6-4c75-ba26-0f86565e0e4b.gif)
 # Maturita 2023
 
 > [Maturitní zkouška 2023](https://www.stredniskola.com/index.php/maturitni-zkouska/)
