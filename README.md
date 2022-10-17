@@ -1,7 +1,12 @@
 ![maturita_banner](https://user-images.githubusercontent.com/95103224/196136666-3caa8fd6-96b7-4068-bd01-f8fd9169b424.gif)
-# Maturita 2023
+# 𝗠𝗮♱𝘂𝗿𝗶♱𝗮 𝟚𝟘𝟚𝟛
 
-> [Maturitní zkouška 2023](https://www.stredniskola.com/index.php/maturitni-zkouska/)
+> [Maturitní zkouška 2023, SČMSD Humpolec](https://www.stredniskola.com/index.php/maturitni-zkouska/)
+
+## :warning: Přihlašování k maturitní zkoušce
+**deadline**: *1. prosince 2022* pro jarní zkušební období 2023   
+**link**: https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar   
+**tiskopis přihlášky**: https://maturita.cermat.cz/files/files/maturita/PRIHLASKA/Prihlaska_k_MZ.pdf
 
 ## Timeline
 
