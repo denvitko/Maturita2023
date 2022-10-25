@@ -8,7 +8,8 @@
 | `&&`  | `\|\|` | `&`         | `\|`       | `^`   | `!`   |  `~`        | × | `==`  | `!=`      | `&=`      | `\|=`    | `^=`      |
 | `and` | `or`   |  `bitand`   | `bitor`    | `xor` | `not` | `compl`     | × | `eq`  | `not_eq`  | `and_eq`  | `or_eq`  | `xor_eq`  |
 
-## Code
+## if-else
+
 ```cpp
 if(condition) {
   // block of code...
@@ -16,6 +17,21 @@ if(condition) {
   // block of code...
 } else {
   // block of code...
+}
+```
+
+## switch
+
+```cpp
+switch(condition) {
+  case 1: 
+    // statement...
+    break;
+  case 2: {
+    // block of code ...
+  } break;
+  default:
+    // statement
 }
 ```
 
