@@ -1,6 +1,5 @@
 # 4) Podmínky
 
-
 ## Boolean logic
 
 | AND   | OR     | Bitwise AND | Bitwise OR | XOR   | NOT   | Bitwise NOT | × | Equal | NOT equal | AND Equal | OR Equal | XOR Equal |
