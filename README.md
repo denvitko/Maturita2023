@@ -4,12 +4,9 @@
 > [Maturitní zkouška 2023, SČMSD Humpolec](https://www.stredniskola.com/index.php/maturitni-zkouska/)   
 **repo s podklady k maturitě 2022**: https://github.com/kochvic/maturita
 
-## :warning: Přihlašování k maturitní zkoušce
-**deadline**: *1. prosince 2022* pro jarní zkušební období 2023   
-**link**: https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar   
-**tiskopis přihlášky**: https://maturita.cermat.cz/files/files/maturita/PRIHLASKA/Prihlaska_k_MZ.pdf
-
 ## Timeline
+
+https://maturita.cermat.cz/menu/maturitni-zkouska/maturitni-kalendar   
 
 ### Společná část
 
